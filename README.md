@@ -1,1 +1,3 @@
-# Sudan_Relief_Hub
+# Sudan Relief Hub
+In progress...
+Working on building a site that can offer valuable information about relief and safe locations in Sudan during the war.
