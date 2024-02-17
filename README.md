@@ -1,3 +1,6 @@
 # Sudan Relief Hub
 In progress...
-Working on building a site that can offer valuable information about relief and safe locations in Sudan during the war.
+Working on building a site that can offer valuable information about the confilct in Sudan, and show safe locations.
+
+Completed:
+Map using Leaflet to show the danger level in different states.
